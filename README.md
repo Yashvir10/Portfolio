@@ -9,4 +9,4 @@ I will continue updating this repository as I complete new courses and earn addi
 1. AI Fluency For Builders  issued by Anthropic                                                            24 July 2026
 2. AI ML Internship  at Alpha IT and Managed Services                                               Jan 2026- July 2026
 3. Getting Started with Generative AI  issued by  IBM SkillBuild                                           25 July 2026
-4.Generative AI Essentials:Using LLMs to Work with Data issued by IBM SkillBuild                           26 July 2026
+4. Generative AI Essentials:Using LLMs to Work with Data issued by IBM SkillBuild                          26 July 2026
